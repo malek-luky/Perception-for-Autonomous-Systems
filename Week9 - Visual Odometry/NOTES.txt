@@ -1,0 +1,4 @@
+distance = differences beetween descriptors
+knn + ratio test - we keep only the points where the first decriptor is way better than the second one - so we can be sure that the point is correct (usign bf matcher we would also store the ones with a low difference between the best e.g. 2 matches)
+    # Rotation you get out from the solve pnp ransac is in camera frame you need to transform it into world frame
+baseline: the distance between the two stereo cameras (so we can triangulate later)

@@ -1,0 +1,1 @@
+Contains code for weekly exercises and team project in Perception for Autonomous Systems course at DTU. We are working in teams of 5 people. I love my team. :)

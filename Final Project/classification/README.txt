@@ -1,0 +1,2 @@
+The training images were taken at home by camera on smartphone. To get the images, look at the Henrik's GitHub repository: https://github.com/henrfj/31392-Perception-for-ARS.
+Deleted from personal GitHub to save space, as there are more than 5GB of images, resulting in very low download speeds on Github (speed is decreasing by every GB which is over 1GB on GitHub)

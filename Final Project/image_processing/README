@@ -1,0 +1,15 @@
+# Calibration
+* link for images: https://campuscvut-my.sharepoint.com/:f:/g/personal/maleklu6_cvut_cz/EnyU2LTN6QFOlGlts1-sSusB6t9Q6hAcSeDAQd2se_cJlQ?e=gff67m
+
+## TODO Part 1
+* use the algorithms on the video (frame by frame)
+* try to create an undistorted and rectified video (seperately)
+* write documentation
+* in case we will solve it live, it might be handy to create some wrapper function that can be easily called from main
+
+## Changelog
+* MM25.04.22: rewritten into jupyter & functions, corrected few bugs, changed to correct folder names
+
+## v1
+* undistortion and rectification working on testing data
+* created folders undistorted, rectified, rectified-undistorted, undistorted-rectified

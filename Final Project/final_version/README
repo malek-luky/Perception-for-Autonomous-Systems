@@ -1,0 +1,10 @@
+To run the program, original images must be downloaded in following path format
+"without_occlusion/left/*.png"
+"without_occlusion/right/*.png"
+"with_occlusion/left/*.png"
+"with_occlusion/right/*.png"
+
+Personal note: The images are in my DTU folder on OneDrive, they have more than 4GB, therefore are not uploaded to github
+The sample images from image_processing folder might be used (lower fps, only 1 img per second)
+
+Then just run main.py and enjoy! :)
